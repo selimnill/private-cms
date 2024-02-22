@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "photo": "https://assets.vogue.com/photos/61e9c43c8aa98afba69ec2e8/master/w_2560%2Cc_limit/00_story.jpg"
+    },
+    {
+        "id": 2,
+        "photo": "https://techcrunch.com/wp-content/uploads/2019/02/rockets-of-awesome.jpg"
+    },
+    {
+        "id": 3,
+        "photo": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/02/20/12/lfwstreetstyle2002j.jpg?crop=8:5,smart&quality=75&auto=webp&width=1024"
+    },
+    {
+        "id": 4,
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQX2DXRcZrs2IPF6Db1eeHwqkeUHgVFeRI13bvsjHs5U4Ll0A1YrLT9scugOinlL5C7TE&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "photo": "https://www.pqs.com.bd/image/cache/catalog/products/smart%20watch/haylou/Xiaomi%20Haylou%20RT2%20LS10%20Smart%20Watch-500x500.jpeg"
+    },
+    {
+        "id": 6,
+        "photo": "https://media.e-valy.com/cms/products/images/184ab4ee-e370-463b-bfbb-dcca008a7559"
+    },
+    {
+        "id": 7,
+        "photo": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/23484790/2023/5/31/14fc49d0-6ce3-4410-9e8c-147f57c539d91685518426707HRXbyHrithikRoshanMenWhiteMeshRunningNon-MarkingShoes1.jpg"
+    },
+    {
+        "id": 8,
+        "photo": "https://spectacular-blog.lenskart.com/wp-content/uploads/march2021/Sunglass-Lenses_OI.jpg"
+    },
+    {
+        "id": 9,
+        "photo": "https://images.lifestyleasia.com/wp-content/uploads/sites/2/2020/06/03144012/summer-t-shirts-for-men.jpg?tr=w-1200,h-900"
+    },
+    {
+        "id": 10,
+        "photo": "https://media.gq-magazine.co.uk/photos/627d277c2867047a3ad99ef4/master/pass/Tshirts_HP.jpg"
+    }
+]
